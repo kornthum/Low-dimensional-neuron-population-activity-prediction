@@ -8,6 +8,11 @@ Presentation slide: https://docs.google.com/presentation/d/13THR2DQM9AyaWgcx9Mg1
 FYI: The project files were not completely aggregated because we split the task and then passed the experiment or file to others. So, this repo only contains data-preprocessing and some model training experiments.
 
 This is one of my projects from the NMA-Deep learning course together with an international team.
+------------------
+
+**Abstract:**
+
+To initiate a movement, the motor cortex processes both motion planning and initiation. The preparatory neural responses in Anterior Lateral Motor (ALM) cortex are closely related to responses of neurons responsible for motion initiation. However, how the information is encoded in preparatory neurons and sent to initiation neurons is vague. But the chance of inferring between them is still highly possible. Moreover, it’s suggested that preparatory neuron responses can be described in low dimensional neural activity space.  So our hypothesis is that we can describe the preparatory neuron activities in low-dimension, and then predict the initiation neuron activities directly. We perform Principal Component Analysis (PCA) on the electrophysiology data from mouse ALM during a delayed response task, and then train a Recurrent Neural Network (RNN) to predict neural spiking series. 
 
 ------------------
 
