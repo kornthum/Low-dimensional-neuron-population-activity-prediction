@@ -27,7 +27,7 @@ This is one of my projects from the NMA-Deep learning course together with an in
 **Conclusion**
 - The model predicts the mean neuron activity.
 - PCA improves the prediction a little bit, but not significant.
--  
+
 **Problem of the results:**
 - Model only predicts the mean neuron activity.
 **Possible reasons from biological perspective:**
