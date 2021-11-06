@@ -7,7 +7,8 @@ Presentation slide: https://docs.google.com/presentation/d/13THR2DQM9AyaWgcx9Mg1
 
 FYI: The project files were not completely aggregated because we split the task and then passed the experiment or file to others. So, this repo only contains data-preprocessing and some model training experiments.
 
-This is one of my projects from the NMA-Deep learning course together with an international team.
+This is one of my projects from the NMA-Deep learning course together with an international team. (www.neuromatchacademy.org)
+
 ------------------
 
 **Abstract:**
