@@ -30,6 +30,7 @@ This is one of my projects from the NMA-Deep learning course together with an in
 
 **Problem of the results:**
 - Model only predicts the mean neuron activity.
+
 **Possible reasons from biological perspective:**
 First, the recorded neuron numbers are insufficient.
 Second, we might have classified some movement initiation neurons as input, and vice verse.
